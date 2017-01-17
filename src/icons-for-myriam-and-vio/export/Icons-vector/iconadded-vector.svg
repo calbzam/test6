@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>iconadded-vector</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iconadded-vector">
+            <rect id="Rectangle-2-Copy-4" fill="#00B588" x="0" y="0" width="16" height="16" rx="2"></rect>
+            <path d="M10.3222656,12 L9.70117188,9.9609375 L6.578125,9.9609375 L5.95703125,12 L4,12 L7.0234375,3.3984375 L9.24414062,3.3984375 L12.2792969,12 L10.3222656,12 Z M9.26757812,8.4375 C8.6933565,6.58983451 8.37011755,5.54492309 8.29785156,5.30273438 C8.22558558,5.06054566 8.17382828,4.86914133 8.14257812,4.72851562 C8.01367123,5.22851813 7.6445343,6.46483389 7.03515625,8.4375 L9.26757812,8.4375 Z" id="A" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+ICONS WINDOWS GUI FOR PLASTIC SCM BRIEF:
+
+1.- INTRO:
+    We need to redesign whole the icons set for the current GUI in Windows version of Plastic SCM.
+    In general the main problem at this point is we have all the windows and tools untidy with maingless coloured icons. This icons are the tipical gallery icons without personality and with the current coloured and 3D look and feel they looks absolutely outdated.
+
+2.- GOALS:
+    - We need to improve the usere experience at least about icons stuff.
+
+3.- SUCCESS WAYS:
+
+    - We need to bring to our users a pretty tidy clean a meaningful icons set.
+
+4.- FIRST IDEAS:
+    - We need to explore the concept of monochrome or few colors icons.
+    - Flat design can be a concept for success.
+    - Maybe not all the tools, buttons and so on must to have their own icon or picture.
+    - We need to study another apps and tools like, Visual Studio, GitHub client, Tower, Kaleidoscope and so on.

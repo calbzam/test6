@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>icondeleted-vector</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icondeleted-vector">
+            <rect id="Rectangle-2-Copy" fill="#E44602" x="0" y="0" width="16" height="16" rx="2"></rect>
+            <path d="M12.1855469,7.63476562 C12.1855469,9.04492893 11.7841837,10.1249962 10.9814453,10.875 C10.1787069,11.6250038 9.01953883,12 7.50390625,12 L5.078125,12 L5.078125,3.43359375 L7.76757812,3.43359375 C9.16602262,3.43359375 10.2519493,3.80273068 11.0253906,4.54101562 C11.798832,5.27930057 12.1855469,6.31054025 12.1855469,7.63476562 L12.1855469,7.63476562 Z M10.2988281,7.68164062 C10.2988281,5.84178768 9.48633625,4.921875 7.86132812,4.921875 L6.89453125,4.921875 L6.89453125,10.5 L7.67382812,10.5 C9.42383687,10.5 10.2988281,9.56055627 10.2988281,7.68164062 L10.2988281,7.68164062 Z" id="D" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+vectoriales
+
+* iconadded.png - igual
+* iconchanged.png - igual pero con una M en vez de C
+* icondeleted.png - igual
+* iconfschanged.png - igual pero con una T en vez de Fs
+* iconmerged.png
+* iconrenamed.png
+
+* signo + con el mismo color verde que el icono: iconadded.png
+* signo - con el mismo color rojo que el icono: icondeleted.png
