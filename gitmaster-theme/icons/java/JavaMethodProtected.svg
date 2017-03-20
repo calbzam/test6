@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
   <g fill="none" fill-rule="evenodd">
-    <rect width="16" height="16"/>
+    <rect width="16" height="16" fill="#00FFFF"/>
     <polygon fill="#BE9C28" fill-rule="nonzero" points="4 9.45 8.45 5 12.899 9.45 8.45 13.899"/>
     <polygon fill="#FFDE7D" fill-rule="nonzero" points="5 9.5 8.5 6 12 9.5 8.5 13"/>
     <polygon fill="#FECF6C" fill-rule="nonzero" points="12 9.5 8.5 13 5 9.5"/>

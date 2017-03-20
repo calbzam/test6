@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
   <g fill="none" fill-rule="evenodd">
-    <rect width="16" height="16"/>
+    <rect width="16" height="16" fill="#00FFFF"/>
     <circle cx="8" cy="8" r="3" fill="#10864D" fill-rule="nonzero"/>
     <circle cx="8" cy="8" r="2.25" fill="#89B881" fill-rule="nonzero"/>
     <circle cx="8" cy="8" r="1.5" fill="#FFFFFF" fill-rule="nonzero"/>

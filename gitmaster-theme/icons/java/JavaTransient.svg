@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g fill="none" fill-rule="evenodd">
-    <rect width="16" height="16"/>
+    <rect width="16" height="16" fill="#00FFFF"/>
     <image width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAA1teXP8meAAAAEZJREFUOBFjYBgFoyFAhRBgJNaM6R3H/qOrzaywIlo/XO/EpkMoBjHBZYhk/Pj2C0UlyQZ8pdiArz8pc8G3rxR64ft3VAMAXm8VXYHlj7UAAAAASUVORK5CYII="/>
     <rect width="16" height="16"/>
     <polygon fill="#604FA3" fill-rule="nonzero" points="10 10 10 9 15 9 15 10 13 10 13 16 12 16 12 10"/>
