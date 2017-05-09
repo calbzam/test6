@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="110" viewBox="0 0 440 110">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="440" height="110"/>
+    <g transform="translate(110 10)">
+      <text fill="#000000" opacity=".8" font-family="SegoeUI, Segoe UI" font-size="20" letter-spacing=".5">
+        <tspan x=".269" y="22">No changes detected in</tspan>
+      </text>
+      <text fill="#6189AA" font-family="Lato-Light, Lato" font-size="16" font-weight="300">
+        <tspan x="20.616" y="49">c:\Users\jhondoe\gitrepos</tspan>  <tspan x="1.088" y="87">​(Remember you have a filter set)</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
