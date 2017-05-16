@@ -7,7 +7,7 @@
           <tspan x="96.804" y="22">The repo list is empty</tspan>
         </text>
         <text font-family="Lato-Light, Lato" font-size="16" font-weight="300">
-          <tspan x="47.165" y="45" fill="#6189AA">Here you will have your list of repositories.</tspan> <tspan x="144.941" y="64" fill="#6189AA">Click </tspan> <tspan x="182.037" y="64" fill="#2279CF" font-family="Lato-Bold, Lato" font-weight="bold">+</tspan> <tspan x="191.317" y="64" fill="#6189AA"> to add</tspan>
+          <tspan x="47.165" y="45" fill="#6189AA">Here you will have your list of repositories.</tspan> <tspan x="139.621" y="64" fill="#6189AA">Click “</tspan> <tspan x="182.037" y="64" fill="#2279CF" font-family="Lato-Bold, Lato" font-weight="bold">+</tspan> <tspan x="191.317" y="64" fill="#6189AA">” to add</tspan>
         </text>
       </g>
       <g transform="translate(142)">
