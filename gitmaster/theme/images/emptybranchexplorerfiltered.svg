@@ -42,9 +42,9 @@
       <rect width="67.496" height="21.832" x="204.967" y="110.23" fill="white"/>
       <use fill="black" xlink:href="#i"/>
     </mask>
-    <path id="j" d="M115.04878,97.4904661 L115.04878,138.826094 C115.04878,151.92025 125.661038,162.533163 138.752758,162.533163 L187.869919,162.533163 L187.869919,159.946429 L138.752758,159.946429 C127.088625,159.946429 117.634146,150.491365 117.634146,138.826094 L117.634146,97.4904661 L119.281201,97.4904661 C119.839304,97.4904661 120.025804,97.1227819 119.714798,96.6692206 L116.968337,92.6638643 C116.659311,92.2131898 116.153092,92.2103029 115.842086,92.6638643 L113.095626,96.6692206 C112.786599,97.119895 112.978748,97.4904661 113.529222,97.4904661 L115.04878,97.4904661 Z"/>
-    <mask id="W" width="76.922" height="72.208" x="-1" y="-1">
-      <rect width="76.922" height="72.208" x="111.948" y="91.325" fill="white"/>
+    <path id="j" d="M109.04878,103.490466 L109.04878,132.826094 C109.04878,145.92025 119.661038,156.533163 132.752758,156.533163 L181.869919,156.533163 L181.869919,153.946429 L132.752758,153.946429 C121.088625,153.946429 111.634146,144.491365 111.634146,132.826094 L111.634146,103.490466 L113.281201,103.490466 C113.839304,103.490466 114.025804,103.122782 113.714798,102.669221 L110.968337,98.6638643 C110.659311,98.2131898 110.153092,98.2103029 109.842086,98.6638643 L107.095626,102.669221 C106.786599,103.119895 106.978748,103.490466 107.529222,103.490466 L109.04878,103.490466 Z"/>
+    <mask id="W" width="76.922" height="60.208" x="-1" y="-1">
+      <rect width="76.922" height="60.208" x="105.948" y="97.325" fill="white"/>
       <use fill="black" xlink:href="#j"/>
     </mask>
     <ellipse id="k" cx="197.35" cy="161.24" rx="22.407" ry="22.418"/>
@@ -79,9 +79,9 @@
       <rect width="93.35" height="21.832" x="392.837" y="203.352" fill="white"/>
       <use fill="black" xlink:href="#q"/>
     </mask>
-    <path id="r" d="M277.065041,190.612915 L277.065041,231.948543 C277.065041,245.042699 287.677298,255.655612 300.769018,255.655612 L349.886179,255.655612 L349.886179,253.068878 L300.769018,253.068878 C289.104885,253.068878 279.650407,243.613814 279.650407,231.948543 L279.650407,190.612915 L281.297461,190.612915 C281.855564,190.612915 282.042064,190.245231 281.731058,189.79167 L278.984597,185.786313 C278.675571,185.335639 278.169352,185.332752 277.858346,185.786313 L275.111886,189.79167 C274.80286,190.242344 274.995008,190.612915 275.545482,190.612915 L277.065041,190.612915 Z"/>
-    <mask id="ae" width="76.922" height="72.208" x="-1" y="-1">
-      <rect width="76.922" height="72.208" x="273.964" y="184.447" fill="white"/>
+    <path id="r" d="M271.565041,198.112915 L271.565041,226.448543 C271.565041,239.542699 282.177298,250.155612 295.269018,250.155612 L342.386179,250.155612 L342.386179,247.568878 L295.269018,247.568878 C283.604885,247.568878 274.150407,238.113814 274.150407,226.448543 L274.150407,198.112915 L275.797461,198.112915 C276.355564,198.112915 276.542064,197.745231 276.231058,197.29167 L273.484597,193.286313 C273.175571,192.835639 272.669352,192.832752 272.358346,193.286313 L269.611886,197.29167 C269.30286,197.742344 269.495008,198.112915 270.045482,198.112915 L271.565041,198.112915 Z"/>
+    <mask id="ae" width="74.922" height="59.208" x="-1" y="-1">
+      <rect width="74.922" height="59.208" x="268.464" y="191.947" fill="white"/>
       <use fill="black" xlink:href="#r"/>
     </mask>
     <ellipse id="s" cx="359.366" cy="254.362" rx="22.407" ry="22.418"/>
@@ -130,9 +130,9 @@
       <rect width="28.705" height="8.898" x="507.03" y="74.015" fill="white"/>
       <use fill="black" xlink:href="#B"/>
     </mask>
-    <path id="C" d="M550.741184,64.2372449 L550.741184,62.7183341 C550.741184,62.1602316 550.3735,61.9737318 549.919938,62.2847374 L545.914582,65.031198 C545.463907,65.3402241 545.461021,65.8464435 545.914582,66.1574491 L549.919938,68.9039097 C550.370613,69.2129358 550.741184,69.0207875 550.741184,68.470313 L550.741184,66.8239796 L632.552846,66.8239796 L632.552846,64.2372449 L550.741184,64.2372449 Z"/>
-    <mask id="ap" width="88.977" height="8.916" x="-1" y="-1">
-      <rect width="88.977" height="8.916" x="544.575" y="61.135" fill="white"/>
+    <path id="C" d="M550.741184,64.2372449 L550.741184,62.7183341 C550.741184,62.1602316 550.3735,61.9737318 549.919938,62.2847374 L545.914582,65.031198 C545.463907,65.3402241 545.461021,65.8464435 545.914582,66.1574491 L549.919938,68.9039097 C550.370613,69.2129358 550.741184,69.0207875 550.741184,68.470313 L550.741184,66.8239796 L626.552846,66.8239796 L626.552846,64.2372449 L550.741184,64.2372449 Z"/>
+    <mask id="ap" width="82.977" height="8.916" x="-1" y="-1">
+      <rect width="82.977" height="8.916" x="544.575" y="61.135" fill="white"/>
       <use fill="black" xlink:href="#C"/>
     </mask>
     <rect id="D" width="50.846" height="19.832" x="626.52" y="15.52"/>
@@ -188,38 +188,38 @@
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#Q)" xlink:href="#d" stroke-linejoin="round" stroke-dasharray="1"/>
       <use fill="#FFFFFF" stroke="#BAD9F2" stroke-width="2" mask="url(#R)" xlink:href="#e" stroke-dasharray="1"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#S)" xlink:href="#f" stroke-linejoin="round" stroke-dasharray="1"/>
-      <use stroke="#BAD9F2" stroke-width="2" mask="url(#T)" xlink:href="#g" stroke-linejoin="round" stroke-dasharray="1"/>
+      <use stroke="#BAD9F2" stroke-width="2" mask="url(#T)" xlink:href="#g" stroke-linejoin="round" stroke-dasharray="1" transform="matrix(-1 0 0 1 154.323 0)"/>
       <use fill="#FFFFFF" stroke="#BAD9F2" stroke-width="2" mask="url(#U)" xlink:href="#h" stroke-dasharray="1"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#V)" xlink:href="#i" stroke-linejoin="round" stroke-dasharray="1"/>
       <text fill="#FFFFFF" mask="url(#M)" font-family="SegoeUI, Segoe UI" font-size="12">
         <tspan x="217.191" y="126.816">feature0</tspan> <tspan x="232.678" y="142.816">01</tspan>
       </text>
-      <use fill-rule="nonzero" stroke="#BAD9F2" stroke-width="2" mask="url(#W)" xlink:href="#j" stroke-linejoin="round" stroke-dasharray="1"/>
+      <use fill-rule="nonzero" stroke="#BAD9F2" stroke-width="2" mask="url(#W)" xlink:href="#j" stroke-linejoin="round" stroke-dasharray="1" transform="scale(-1 1) rotate(-90 0 271.838)"/>
       <use fill="#FFFFFF" stroke="#BAD9F2" stroke-width="2" mask="url(#X)" xlink:href="#k" stroke-dasharray="1"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#Y)" xlink:href="#l" stroke-linejoin="round" stroke-dasharray="1"/>
       <use fill="#FFFFFF" stroke="#BAD9F2" stroke-width="2" mask="url(#Z)" xlink:href="#m" stroke-dasharray="1"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#aa)" xlink:href="#n" stroke-linejoin="round" stroke-dasharray="1"/>
-      <use stroke="#BAD9F2" stroke-width="2" mask="url(#ab)" xlink:href="#o" stroke-linejoin="round" stroke-dasharray="1"/>
+      <use stroke="#BAD9F2" stroke-width="2" mask="url(#ab)" xlink:href="#o" stroke-linejoin="round" stroke-dasharray="1" transform="matrix(-1 0 0 1 475.77 0)"/>
       <use fill="#FFFFFF" stroke="#BAD9F2" stroke-width="2" mask="url(#ac)" xlink:href="#p" stroke-dasharray="1"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#ad)" xlink:href="#q" stroke-linejoin="round" stroke-dasharray="1"/>
-      <use fill-rule="nonzero" stroke="#BAD9F2" stroke-width="2" mask="url(#ae)" xlink:href="#r" stroke-linejoin="round" stroke-dasharray="1"/>
+      <use fill-rule="nonzero" stroke="#BAD9F2" stroke-width="2" mask="url(#ae)" xlink:href="#r" stroke-linejoin="round" stroke-dasharray="1" transform="scale(-1 1) rotate(-90 0 527.477)"/>
       <use fill="#FFFFFF" stroke="#BAD9F2" stroke-width="2" mask="url(#af)" xlink:href="#s" stroke-dasharray="1"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#ag)" xlink:href="#t" stroke-linejoin="round" stroke-dasharray="1"/>
       <use fill="#FFFFFF" stroke="#BAD9F2" stroke-width="2" mask="url(#ah)" xlink:href="#u" stroke-dasharray="1"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#ai)" xlink:href="#v" stroke-linejoin="round" stroke-dasharray="1"/>
       <use fill="#FFFFFF" stroke="#BAD9F2" stroke-width="2" mask="url(#aj)" xlink:href="#w" stroke-dasharray="1"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#ak)" xlink:href="#x" stroke-linejoin="round" stroke-dasharray="1"/>
-      <use stroke="#BAD9F2" stroke-width="2" mask="url(#al)" xlink:href="#y" stroke-linejoin="round" stroke-dasharray="1"/>
-      <use stroke="#BAD9F2" stroke-width="2" mask="url(#am)" xlink:href="#z" stroke-linejoin="round" stroke-dasharray="1"/>
+      <use stroke="#BAD9F2" stroke-width="2" mask="url(#al)" xlink:href="#y" stroke-linejoin="round" stroke-dasharray="1" transform="matrix(-1 0 0 1 798.941 0)"/>
+      <use stroke="#BAD9F2" stroke-width="2" mask="url(#am)" xlink:href="#z" stroke-linejoin="round" stroke-dasharray="1" transform="matrix(-1 0 0 1 962.681 0)"/>
       <use fill="#FFFFFF" stroke="#BAD9F2" stroke-width="2" mask="url(#an)" xlink:href="#A" stroke-dasharray="1"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#ao)" xlink:href="#B" stroke-linejoin="round" stroke-dasharray="1"/>
-      <use stroke="#BAD9F2" stroke-width="2" mask="url(#ap)" xlink:href="#C" stroke-linejoin="round" stroke-dasharray="1"/>
+      <use stroke="#BAD9F2" stroke-width="2" mask="url(#ap)" xlink:href="#C" stroke-linejoin="round" stroke-dasharray="1" transform="matrix(-1 0 0 1 1172.128 0)"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#aq)" xlink:href="#D" stroke-linejoin="round" stroke-dasharray="1"/>
       <use fill="#FFFFFF" stroke="#BAD9F2" stroke-width="2" mask="url(#ar)" xlink:href="#E" stroke-dasharray="1"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#as)" xlink:href="#F" stroke-linejoin="round" stroke-dasharray="1"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#at)" xlink:href="#G" stroke-linejoin="round" stroke-dasharray="1"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#au)" xlink:href="#H" stroke-linejoin="round" stroke-dasharray="1"/>
-      <use stroke="#BAD9F2" stroke-width="2" mask="url(#av)" xlink:href="#I" stroke-linejoin="round" stroke-dasharray="1"/>
+      <use stroke="#BAD9F2" stroke-width="2" mask="url(#av)" xlink:href="#I" stroke-linejoin="round" stroke-dasharray="1" transform="matrix(-1 0 0 1 639.51 0)"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#aw)" xlink:href="#J" stroke-linejoin="round" stroke-dasharray="1"/>
       <use stroke="#BAD9F2" stroke-width="2" mask="url(#ax)" xlink:href="#K" stroke-linejoin="round" stroke-dasharray="1"/>
     </g>
