@@ -20,6 +20,7 @@
     <SolidColorBrush x:Key="InfoForeground" Color="#000000" />
     <SolidColorBrush x:Key="SeparatorDark" Color="#A0A0A0" />
     <SolidColorBrush x:Key="SeparatorLight" Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+    <SolidColorBrush x:Key="SplitterForeground" Color="#C8C8C8" />
     <!-- I3ContextMenuButton brushes -->
     <SolidColorBrush x:Key="ContextMenuButtonTriangleStroke" Color="#000000"/>
     <SolidColorBrush x:Key="ContextMenuButtonTriangleFill" Color="#555555"/>
