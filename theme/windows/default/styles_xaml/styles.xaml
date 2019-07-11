@@ -181,31 +181,24 @@
                 <VisualState x:Name="Unfocused" />
                 <VisualState x:Name="Focused">
                   <Storyboard>
-                    <ColorAnimation To="{StaticResource TextBoxFocusedBackground}" Storyboard.TargetName="BgBrush" Storyboard.TargetProperty="Color" Duration="0:0:0.09" />
                     <ColorAnimation To="{StaticResource TextBoxFocusedBorder}" Storyboard.TargetName="BordBrush" Storyboard.TargetProperty="Color" Duration="0:0:0.09" />
                   </Storyboard>
                 </VisualState>
               </VisualStateGroup>
               <VisualStateGroup x:Name="CommonStates">
-                <VisualState x:Name="Normal" />
                 <VisualState x:Name="Disabled">
                   <Storyboard>
-                    <ColorAnimation To="{StaticResource TextBoxDisabledBackground}" Storyboard.TargetName="BgBrush" Storyboard.TargetProperty="Color" Duration="0:0:0" />
                     <DoubleAnimation To="0.6" Storyboard.TargetName="PART_ContentHost" Storyboard.TargetProperty="(UIElement.Opacity)" Duration="0:0:0" />
                   </Storyboard>
                 </VisualState>
                 <VisualState x:Name="MouseOver">
                   <Storyboard>
-                    <ColorAnimation To="{StaticResource TextBoxFocusedBackground}" Storyboard.TargetName="BgBrush" Storyboard.TargetProperty="Color" Duration="0:0:0.09" />
                     <ColorAnimation To="{StaticResource TextBoxFocusedBorder}" Storyboard.TargetName="BordBrush" Storyboard.TargetProperty="Color" Duration="0:0:0.09" />
                   </Storyboard>
                 </VisualState>
               </VisualStateGroup>
             </VisualStateManager.VisualStateGroups>
-            <Border BorderThickness="1">
-              <Border.Background>
-                <SolidColorBrush Color="{StaticResource TextBoxFocusedBackground}" x:Name="BgBrush" />
-              </Border.Background>
+            <Border BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}">
               <Border.BorderBrush>
                 <SolidColorBrush Color="{StaticResource TextBoxBorder}" x:Name="BordBrush" />
               </Border.BorderBrush>
