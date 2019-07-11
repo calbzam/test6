@@ -186,6 +186,7 @@
                 </VisualState>
               </VisualStateGroup>
               <VisualStateGroup x:Name="CommonStates">
+                 <VisualState x:Name="Normal" />
                 <VisualState x:Name="Disabled">
                   <Storyboard>
                     <DoubleAnimation To="0.6" Storyboard.TargetName="PART_ContentHost" Storyboard.TargetProperty="(UIElement.Opacity)" Duration="0:0:0" />
