@@ -34,8 +34,8 @@
     <Color x:Key="ButtonBackground2">#F0F0F0</Color>
     <Color x:Key="ButtonOuterBorder">#BDBDBD</Color>
     <Color x:Key="ButtonInnerBorder">#FFFFFF</Color>
-    <Color x:Key="ButtonClickedBackground1">#DCDCDC</Color>
-    <Color x:Key="ButtonClickedBackground2">#DCDCDC</Color>
+    <Color x:Key="ButtonClickedBackground1">#CCCCCC</Color>
+    <Color x:Key="ButtonClickedBackground2">#CCCCCC</Color>
     <Color x:Key="ButtonClickedInnerBorder">#E3E3E3</Color>
     <Color x:Key="ButtonForeground">#000000</Color>
     <!-- Native button colors -->

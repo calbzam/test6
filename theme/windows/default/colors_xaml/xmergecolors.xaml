@@ -29,8 +29,8 @@
     <Color x:Key="I3ButtonBackground2">#F0F0F0</Color>
     <Color x:Key="I3ButtonOuterBorder">#BDBDBD</Color>
     <Color x:Key="I3ButtonInnerBorder">#FFFFFF</Color>
-    <Color x:Key="I3ButtonClickedBackground1">#DCDCDC</Color>
-    <Color x:Key="I3ButtonClickedBackground2">#DCDCDC</Color>
+    <Color x:Key="I3ButtonClickedBackground1">#CCCCCC</Color>
+    <Color x:Key="I3ButtonClickedBackground2">#CCCCCC</Color>
     <Color x:Key="I3ButtonClickedInnerBorder">#E3E3E3</Color>
     <Color x:Key="I3ButtonForeground">#000000</Color>
     <!-- Native button colors -->
