@@ -15,6 +15,7 @@
     <SolidColorBrush x:Key="NotificationOverlayStroke" Color="#FFFC3C32" />
     <!-- Brushes -->
     <SolidColorBrush x:Key="Control" Color="#3F424C" />
+    <SolidColorBrush x:Key="Border" Color="#808080" />
     <SolidColorBrush x:Key="Foreground" Color="#C8C8C8" />
     <SolidColorBrush x:Key="NativeButtonForeground" Color="#000000" />
     <SolidColorBrush x:Key="InfoForeground" Color="#2DBBE9" />
@@ -63,4 +64,12 @@
     <Color x:Key="TreeListViewSelectedRow">#F9D5CD</Color>
     <Color x:Key="TreeListViewSelectedUnfocused">#E3E3E3</Color>
     <Color x:Key="TreeListViewNodeForeground">#000000</Color>
+    <!-- TabControl brushes -->
+    <SolidColorBrush x:Key="TabHeaderBackground" Color="#3F424C"/>
+    <!-- TabItem brushes -->
+    <SolidColorBrush x:Key="TabItemSelectedBackgroundBrush" Color="#3F4249"/>
+    <SolidColorBrush x:Key="TabItemUnSelectedBackgroundBrush" Color="#333438"/>
+    <SolidColorBrush x:Key="TabItemHotBackgroundBrush" Color="#3D3E42"/>
+    <SolidColorBrush x:Key="TabItemDisabledBackgroundBrush" Color="#EFEFEF"/>
+    <SolidColorBrush x:Key="TabItemDisabledBorderBrush" Color="#D9D9D9"/>
 </ResourceDictionary>
