@@ -1,0 +1,1 @@
+These sketch files are for i3 and montana-dark. Fernando had a single folder called /code-review/dark-and-montana with these 5 files. I created 2 folders /i3/mockups/codereview and /montana-dark/mockups/codereview and "duplicated" those files there.
