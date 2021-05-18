@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="188px" height="140px" viewBox="0 0 188 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-grey</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-grey">
+            <path d="M11,2 C6.02943725,2 2,6.02943725 2,11 L2,129 C2,133.970563 6.02943725,138 11,138 L177,138 C181.970563,138 186,133.970563 186,129 L186,11 C186,6.02943725 181.970563,2 177,2 L11,2 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M11,0 L177,0 C183.075132,0 188,4.92486775 188,11 L188,129 C188,135.075132 183.075132,140 177,140 L11,140 C4.92486775,140 0,135.075132 0,129 L0,11 C0,4.92486775 4.92486775,0 11,0 Z M11,2 C6.02943725,2 2,6.02943725 2,11 L2,129 C2,133.970563 6.02943725,138 11,138 L177,138 C181.970563,138 186,133.970563 186,129 L186,11 C186,6.02943725 181.970563,2 177,2 L11,2 Z" id="Combined-Shape" fill="#D4D4D4" fill-rule="nonzero"></path>
+            <g id="Group" transform="translate(108.000000, 9.000000)">
+                <path d="M51,108 L51,120 L30,120 L30,108 L51,108 Z M22,108 L22,120 L7,120 L7,108 L22,108 Z M22,86 L22,98 L7,98 L7,86 L22,86 Z M22,22 L22,34 L7,34 L7,22 L22,22 Z M72,0 L72,12 L30,12 L30,0 L72,0 Z M22,0 L22,12 L7,12 L7,0 L22,0 Z" id="Combined-Shape" fill="#E1E1E1"></path>
+                <polygon id="Rectangle-Copy-12" fill="#EEEEEE" points="0 38 78 38 78 81 0 81"></polygon>
+                <path d="M51,65 L51,77 L30,77 L30,65 L51,65 Z M22,65 L22,77 L7,77 L7,65 L22,65 Z M72,43 L72,55 L30,55 L30,43 L72,43 Z M22,43 L22,55 L7,55 L7,43 L22,43 Z" id="Combined-Shape" fill="#CFCBCB"></path>
+            </g>
+            <g id="Group-Copy" transform="translate(2.000000, 9.000000)">
+                <path d="M51,86 L51,98 L30,98 L30,86 L51,86 Z M22,86 L22,98 L7,98 L7,86 L22,86 Z M22,64 L22,76 L7,76 L7,64 L22,64 Z M22,22 L22,34 L7,34 L7,22 L22,22 Z M72,0 L72,12 L30,12 L30,0 L72,0 Z M22,0 L22,12 L7,12 L7,0 L22,0 Z" id="Combined-Shape" fill="#E1E1E1"></path>
+                <polygon id="Rectangle-Copy-12" fill="#EEEEEE" points="0 38 79 38 79 61 0 61"></polygon>
+                <path d="M72,43 L72,55 L30,55 L30,43 L72,43 Z M22,43 L22,55 L7,55 L7,43 L22,43 Z" id="Combined-Shape" fill="#CFCBCB"></path>
+            </g>
+            <rect id="Rectangle" fill="#F7F7F7" x="81" y="2" width="27" height="136"></rect>
+            <polygon id="Rectangle-Copy-13" fill="#E1E1E1" opacity="0.699999988" points="81 47 108 47 108 90 81 70"></polygon>
+        </g>
+    </g>
+</svg>
