@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>iconinfo</title>
+    <g id="iconinfo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8.75,17.5 C13.5825,17.5 17.5,13.5825 17.5,8.75 C17.5,3.91751 13.5825,0 8.75,0 C3.91751,0 0,3.91751 0,8.75 C0,13.5825 3.91751,17.5 8.75,17.5 Z M8.5,5.5 C9.4665,5.5 10.25,4.7165 10.25,3.75 C10.25,2.7835 9.4665,2 8.5,2 C7.5335,2 6.75,2.7835 6.75,3.75 C6.75,4.7165 7.5335,5.5 8.5,5.5 Z M10,14 L10,7 L7,7 L7,14 L10,14 Z" id="Shape" fill="#FF00FF"></path>
+    </g>
+</svg>
